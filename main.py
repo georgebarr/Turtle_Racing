@@ -4,6 +4,9 @@ import random, os
 os.system('cls' if os.name == 'nt' else 'clear')
 # Clears the terminal history for the user, makes a cleaner experience.
 
+
+# test
+
 screen = Screen()
 screen.setup(width=500, height=400)
 
