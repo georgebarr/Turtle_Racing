@@ -1,6 +1,6 @@
 # Turtle Race | BETA 
 
-**Disclaimer:** Please note that this project is still in its first beta stage. It is nowhere near complete and there are many goals and aspirations for this project for the future. The code is subject to change.
+**Disclaimer:** Please note that this project is still in its first stage. It is nowhere near complete and there are many goals and aspirations for this project for the future. The code is subject to change.
 
 ## Brief Description
 
