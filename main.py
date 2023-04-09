@@ -11,12 +11,12 @@ colors = ['red', 'orange', 'black', 'green', 'blue', 'purple']
 
 prediction = screen.textinput(title="Make a prediction",
                               prompt="Which turtle is going to win the race? (Red, orange, black, green, blue,"
-                                     " or purple): ")
+                                     " or purple): ").lower()
 
 while prediction not in colors:
     prediction = screen.textinput(title="Make a prediction",
                                   prompt="Which turtle is going to win the race? (Red, orange, black, green, blue,"
-                                         " or purple): ")
+                                         " or purple): ").lower()
 
 y_positions = [-70, -40, -10, 20, 50, 80]
 list_turtles = []
@@ -40,7 +40,7 @@ while race_occurring:
             race_occurring = False
             winner = turtle.pencolor()
 
-            if prediction.lower() == winner:
+            if prediction == winner:
                 print(f"Your prediction was correct! The {winner} turtle won the race!")
             else:
                 print(f"Unfortunately, your prediction was incorrect. The {winner} turtle won the race.")
