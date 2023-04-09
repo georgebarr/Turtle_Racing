@@ -13,7 +13,8 @@ This project is **currently** only a simple program that uses the Python Turtle 
 	1. Bikers
 	2. Horses
 	3. Rabbits 
-	4. Turtles
+	4. Cars
+	5. Turtles
 2. Let the user pick how many objects are racing.
 3. Integrate a points / credit system.
 
