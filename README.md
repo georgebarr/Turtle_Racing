@@ -4,7 +4,7 @@
 
 ## Brief Description
 
-This project is currently only a simple program that uses the Python Turtle module to race 6 turtles and let the user predict which turtle is going to win. 
+This project is **currently** only a simple program that uses the Python Turtle module to race 6 turtles and let the user predict which turtle is going to win. 
 
 ## Features that will be integrated in the next update:
 
