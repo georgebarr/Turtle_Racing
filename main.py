@@ -1,5 +1,8 @@
 from turtle import Turtle, Screen
-import random
+import random, os
+
+os.system('cls' if os.name == 'nt' else 'clear')
+# Clears the terminal history for the user, makes a cleaner experience.
 
 screen = Screen()
 screen.setup(width=500, height=400)
