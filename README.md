@@ -1,4 +1,4 @@
-# Turtle Race
+# Turtle Racing 
 
 <br>
 A simple program that uses the Python Turtle module to race 6 turtles and let the
